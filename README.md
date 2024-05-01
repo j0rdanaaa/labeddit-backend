@@ -4,10 +4,10 @@ Projeto fullstack para a criação de um aplicativo mobile first inspirado no Re
 
 A API desenvolvida permite a interação de usuários na rede social.
 
-🔴 Acesse [aqui](postman) a documentação da API.
+🔴 Acesse [https://documenter.getpostman.com/view/28294826/2sA3JDikdv](postman) a documentação da API.
 
 Para o deploy foi utilizado o serviço de nuvem Render.
-[Link]() do deploy.
+[Link](https://labeddit-backend-cxp2.onrender.com) do deploy.
 
 - Para usuários:
     - 📝 Cadastro
@@ -38,4 +38,4 @@ https://dbdiagram.io/d/
 - Roteamento
 - Postman
 
-🔴 Acesse [aqui] () o link do repositório do LabEddit Frontend.
+🔴 Acesse [https://github.com/j0rdanaaa/labeddit--frontend] () o link do repositório do LabEddit Frontend.
